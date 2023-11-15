@@ -43,7 +43,9 @@ viewBox="0 0 150000 90000"
   <style type="text/css">
    <![CDATA[
     @font-face { font-family:"Lucida Sans Unicode";src:url("#FontID0") format(svg)}
-    .str0 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str2 {stroke:black;stroke-width:52.92;stroke-linecap:round;stroke-linejoin:round}
+    .str0 {stroke:black;stroke-width:282.22;stroke-linecap:round;stroke-linejoin:round}
+    .str1 {stroke-width:666.67;stroke-linecap:round;stroke-linejoin:round}
     .fil1 {fill:none}
     .fil0 {fill:black}
     .fnt2 {font-weight:normal;font-size:423.33;font-family:'Lucida Sans Unicode'}
@@ -59,7 +61,7 @@ viewBox="0 0 150000 90000"
   <text x="31962" y="7830"  class="fil0 fnt0">oomlout_tdpbmct_printer_anycubic_vyper</text>
   <text x="57602" y="14335"  class="fil0 fnt0">height_reduction</text>
   <text x="17057" y="22867"  class="fil0 fnt1">oomlout_tdpbmct_printer_anycubic_vyper</text>
-  <g id="_865181616">
+  <g id="_790404640">
    <rect class="fil1 str0" x="12500" y="68500" width="4000" height="4000"/>
    <rect class="fil1 str0" x="12500" y="68500" width="2000" height="2000"/>
    <rect class="fil1 str0" x="14500" y="68500" width="2000" height="2000"/>
@@ -70,7 +72,7 @@ viewBox="0 0 150000 90000"
    <circle class="fil1 str0" cx="13500" cy="71500" r="250"/>
    <circle class="fil1 str0" cx="15500" cy="71500" r="250"/>
   </g>
-  <g id="_865177424">
+  <g id="_790400384">
    <rect class="fil1 str0" x="43500" y="68500" width="4000" height="4000"/>
    <rect class="fil1 str0" x="43500" y="68500" width="2000" height="2000"/>
    <rect class="fil1 str0" x="45500" y="68500" width="2000" height="2000"/>
@@ -83,38 +85,38 @@ viewBox="0 0 150000 90000"
   </g>
   <rect class="fil1 str0" x="12500" y="68500" width="35000" height="4000"/>
   <rect class="fil1 str0" x="20200" y="69300" width="1000" height="1000"/>
-  <text x="20320" y="69961"  class="fil0 fnt2">usb</text>
+  <text x="20320" y="69961"  class="fil0 str0 fnt2">usb</text>
   <rect class="fil1 str0" x="12500" y="23500" width="4000" height="45000"/>
   <rect class="fil1 str0" x="43500" y="23500" width="4000" height="45000"/>
   <rect class="fil1 str0" x="12500" y="21500" width="35000" height="2000"/>
-  <g id="_865169712">
+  <g id="_790392384">
    <rect class="fil1 str0" x="12500" y="45500" width="35000" height="2000"/>
    <rect class="fil1 str0" x="10000" y="42000" width="2500" height="9000"/>
    <rect class="fil1 str0" x="6000" y="44000" width="4000" height="5000"/>
    <rect class="fil1 str0" x="47500" y="44000" width="10000" height="5000"/>
   </g>
   <text x="26008" y="28142"  class="fil0 fnt3">stock</text>
-  <g id="_865162352">
-   <line class="fil1 str0" x1="12209" y1="72500" x2="4709" y2= "72500" />
-   <line class="fil1 str0" x1="12209" y1="21500" x2="4709" y2= "21500" />
-   <line class="fil1 str0" x1="5000" y1="53482" x2="5000" y2= "72500" />
-   <line class="fil1 str0" x1="5000" y1="21500" x2="5000" y2= "40441" />
+  <g id="_790386208">
+   <line class="fil1 str2" x1="12209" y1="72500" x2="4709" y2= "72500" />
+   <line class="fil1 str2" x1="12209" y1="21500" x2="4709" y2= "21500" />
+   <line class="fil1 str2" x1="5000" y1="53482" x2="5000" y2= "72500" />
+   <line class="fil1 str2" x1="5000" y1="21500" x2="5000" y2= "40441" />
   </g>
   <g transform="matrix(0 -1 1 0 -39058.9 122000)">
    <text x="69818" y="45000"  class="fil0 fnt4">510 mm</text>
   </g>
-  <g id="_863782400">
-   <line class="fil1 str0" x1="47791" y1="68500" x2="55291" y2= "68500" />
-   <line class="fil1 str0" x1="47791" y1="23500" x2="55291" y2= "23500" />
-   <line class="fil1 str0" x1="55000" y1="52662" x2="55000" y2= "68500" />
-   <line class="fil1 str0" x1="55000" y1="23500" x2="55000" y2= "39441" />
+  <g id="_790379328">
+   <line class="fil1 str2" x1="47791" y1="68500" x2="55291" y2= "68500" />
+   <line class="fil1 str2" x1="47791" y1="23500" x2="55291" y2= "23500" />
+   <line class="fil1 str2" x1="55000" y1="52662" x2="55000" y2= "68500" />
+   <line class="fil1 str2" x1="55000" y1="23500" x2="55000" y2= "39441" />
   </g>
   <g transform="matrix(0 -1 1 0 10941.1 121000)">
    <text x="69818" y="45000"  class="fil0 fnt4">450 mm</text>
   </g>
   <rect class="fil1 str0" x="25000" y="42500" width="10000" height="26000"/>
   <text x="92057" y="42867"  class="fil0 fnt1">oomlout_tdpbmct_printer_anycubic_vyper</text>
-  <g id="_863771648">
+  <g id="_880221408">
    <rect class="fil1 str0" x="87500" y="68500" width="4000" height="4000"/>
    <rect class="fil1 str0" x="87500" y="68500" width="2000" height="2000"/>
    <rect class="fil1 str0" x="89500" y="68500" width="2000" height="2000"/>
@@ -125,7 +127,7 @@ viewBox="0 0 150000 90000"
    <circle class="fil1 str0" cx="88500" cy="71500" r="250"/>
    <circle class="fil1 str0" cx="90500" cy="71500" r="250"/>
   </g>
-  <g id="_863768256">
+  <g id="_880216832">
    <rect class="fil1 str0" x="118500" y="68500" width="4000" height="4000"/>
    <rect class="fil1 str0" x="118500" y="68500" width="2000" height="2000"/>
    <rect class="fil1 str0" x="120500" y="68500" width="2000" height="2000"/>
@@ -139,7 +141,7 @@ viewBox="0 0 150000 90000"
   <rect class="fil1 str0" x="87500" y="68500" width="35000" height="4000"/>
   <path class="fil1 str0" d="M87500 43500l4000 0 0 25000 -4000 0 0 -25000zm31000 0l4000 0 0 25000 -4000 0 0 -25000z"/>
   <rect class="fil1 str0" x="87500" y="41500" width="35000" height="2000"/>
-  <g id="_863765120">
+  <g id="_880281088">
    <rect class="fil1 str0" x="87500" y="51500" width="35000" height="2000"/>
    <rect class="fil1 str0" x="85000" y="48000" width="2500" height="9000"/>
    <rect class="fil1 str0" x="81000" y="50000" width="4000" height="5000"/>
@@ -147,38 +149,38 @@ viewBox="0 0 150000 90000"
   </g>
   <text x="98605" y="48142"  class="fil0 fnt3">chopped</text>
   <rect class="fil1 str0" x="100000" y="62500" width="10000" height="6000"/>
-  <g id="_863824640">
-   <line class="fil1 str0" x1="99709" y1="68500" x2="95947" y2= "68500" />
-   <line class="fil1 str0" x1="99709" y1="62500" x2="95947" y2= "62500" />
-   <line class="fil1 str0" x1="96238" y1="68500" x2="96238" y2= "68500" />
-   <line class="fil1 str0" x1="96238" y1="62500" x2="96238" y2= "62500" />
+  <g id="_880275232">
+   <line class="fil1 str2" x1="99709" y1="68500" x2="95947" y2= "68500" />
+   <line class="fil1 str2" x1="99709" y1="62500" x2="95947" y2= "62500" />
+   <line class="fil1 str2" x1="96238" y1="68500" x2="96238" y2= "68500" />
+   <line class="fil1 str2" x1="96238" y1="62500" x2="96238" y2= "62500" />
   </g>
   <g transform="matrix(0 -1 1 0 52179.2 140500)">
    <text x="70621" y="45000"  class="fil0 fnt4">60 mm</text>
   </g>
-  <g id="_863819680">
-   <line class="fil1 str0" x1="91209" y1="72500" x2="79709" y2= "72500" />
-   <line class="fil1 str0" x1="87209" y1="41500" x2="79709" y2= "41500" />
-   <line class="fil1 str0" x1="80000" y1="63533" x2="80000" y2= "72500" />
-   <line class="fil1 str0" x1="80000" y1="41500" x2="80000" y2= "50441" />
+  <g id="_880271488">
+   <line class="fil1 str2" x1="91209" y1="72500" x2="79709" y2= "72500" />
+   <line class="fil1 str2" x1="87209" y1="41500" x2="79709" y2= "41500" />
+   <line class="fil1 str2" x1="80000" y1="63533" x2="80000" y2= "72500" />
+   <line class="fil1 str2" x1="80000" y1="41500" x2="80000" y2= "50441" />
   </g>
   <g transform="matrix(0 -1 1 0 35941.1 132000)">
    <text x="69818" y="45000"  class="fil0 fnt4">310 mm</text>
   </g>
-  <g id="_863804096">
-   <line class="fil1 str0" x1="122791" y1="68500" x2="130291" y2= "68500" />
-   <line class="fil1 str0" x1="122791" y1="43500" x2="130291" y2= "43500" />
-   <line class="fil1 str0" x1="130000" y1="62581" x2="130000" y2= "68500" />
-   <line class="fil1 str0" x1="130000" y1="43500" x2="130000" y2= "49441" />
+  <g id="_880266368">
+   <line class="fil1 str2" x1="122791" y1="68500" x2="130291" y2= "68500" />
+   <line class="fil1 str2" x1="122791" y1="43500" x2="130291" y2= "43500" />
+   <line class="fil1 str2" x1="130000" y1="62581" x2="130000" y2= "68500" />
+   <line class="fil1 str2" x1="130000" y1="43500" x2="130000" y2= "49441" />
   </g>
   <g transform="matrix(0 -1 1 0 85941.1 131000)">
    <text x="69818" y="45000"  class="fil0 fnt4">250 mm</text>
   </g>
-  <g id="_863799872">
-   <line class="fil1 str0" x1="24709" y1="42500" x2="21072" y2= "42500" />
-   <line class="fil1 str0" x1="24709" y1="68500" x2="21072" y2= "68500" />
-   <line class="fil1 str0" x1="21363" y1="48941" x2="21363" y2= "42500" />
-   <line class="fil1 str0" x1="21363" y1="68500" x2="21363" y2= "62081" />
+  <g id="_880243808">
+   <line class="fil1 str2" x1="24709" y1="42500" x2="21072" y2= "42500" />
+   <line class="fil1 str2" x1="24709" y1="68500" x2="21072" y2= "68500" />
+   <line class="fil1 str2" x1="21363" y1="48941" x2="21363" y2= "42500" />
+   <line class="fil1 str2" x1="21363" y1="68500" x2="21363" y2= "62081" />
   </g>
   <g transform="matrix(0 -1 1 0 -22695.5 130500)">
    <text x="69818" y="45000"  class="fil0 fnt4">260 mm</text>
